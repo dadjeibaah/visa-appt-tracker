@@ -1,0 +1,184 @@
+callback=jQuery21107171938286945687_1555098924310({
+  "Slots": [
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-01",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-02",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-03",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-04",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-05",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-06",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-07",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-08",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-09",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-10",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-11",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-12",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-13",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-14",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-15",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-16",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-17",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-18",
+      "times": [],
+      "state": 2
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-19",
+      "times": [],
+      "state": 2
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-20",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-21",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-22",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-23",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-24",
+      "times": [],
+      "state": 2
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-25",
+      "times": [],
+      "state": 2
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-26",
+      "times": [],
+      "state": 2
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-27",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-28",
+      "times": [],
+      "state": 0
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-29",
+      "times": [],
+      "state": 1
+    },
+    {
+      "agenda": "bkt86361",
+      "date": "2019-04-30",
+      "times": ["slot"],
+      "state": 1
+    }
+  ]
+})
